@@ -42,9 +42,9 @@ ext {
     minSdk = 19
     targetSdk = 29
 
-    frescoVersion = '2.3.0'
+    frescoVersion = '2.5.0'
     SSIVVersion = '3.10.0'
-    frescoHelperVersion = '2.4.0'
+    frescoHelperVersion = '2.5.0'
 
     // Dependencies Libraries
     dependencies = ["support-v4"         : "androidx.legacy:legacy-support-v4:1.0.0",
